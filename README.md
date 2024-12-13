@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Daniyal</h1>
-<h3 align="center">A passionate Computer Science from Pakistan</h3>
+<h3 align="center">A passionate Computer Scientist from Pakistan</h3>
 
 
 - 🔭 I’m currently working on [Artificial Intelligent](https://github.com/ismaildaniyal/Final-Year-Project.git)
