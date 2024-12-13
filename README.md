@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ismaildaniyal.github.io/Portfolio_Ismail/](https://ismaildaniyal.github.io/Portfolio_Ismail/)
 
-- 💬 Ask me about **react, django, node js, Ai, c++, VBA,**
+- 💬 Ask me about **React, Django, Nodejs, Ai, C++, VBA, C#, Html, CSS, OPP, Mysql, Oracle**
 
 - 📫 How to reach me **ismailsarfraz9345@gmail.com**
 
@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaildaniyal&show_icons=true&locale=en" alt="ismaildaniyal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismaildaniyal&" alt="ismaildaniyal" /></p>
-
