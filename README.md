@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Artificial Intelligent](https://github.com/ismaildaniyal/Final-Year-Project.git)
 
-- 🌱 I’m currently learning **React js, Django, Information Security, Data Mining**
+- 🌱 I’m currently learning **React js, Django, Information Security, Data Mining, Python**
 
 - 👨‍💻 All of my projects are available at [https://ismaildaniyal.github.io/Portfolio_Ismail/](https://ismaildaniyal.github.io/Portfolio_Ismail/)
 
