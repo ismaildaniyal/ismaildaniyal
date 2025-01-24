@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ismaildaniyal.github.io/Portfolio_Ismail/](https://ismaildaniyal.github.io/Portfolio_Ismail/)
 
-- 💬 Ask me about **React, Django, Nodejs, Ai, C++, VBA, C#, Html, CSS, OPP, Mysql, Oracle**
+- 💬 Ask me about **React, Django, Nodejs, Ai, C++, VBA, C#, Html, CSS, OOP, Mysql, Oracle**
 
 - 📫 How to reach me **ismailsarfraz9345@gmail.com**
 
