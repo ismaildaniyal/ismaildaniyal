@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ismaildaniyal&color=blue&label=PROFILE+VIEWS&style=for-the-badge)
+
 <h1 align="center">Hi 👋, I'm Ismail Daniyal</h1>
 <h3 align="center">A passionate Computer Scientist from Pakistan</h3>
 
