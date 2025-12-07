@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Computer Scientist from Pakistan</h3>
 
 
-- 🔭 I’m currently working on [Artificial Intelligent](https://github.com/ismaildaniyal/Final-Year-Project.git)
 
 - 🌱 I’m currently working **React js, Django, Genrative AI, DevOps**
 
